@@ -1,0 +1,11 @@
+@media only screen and (max-width: 606px) {
+    #quote {
+        visibility: hidden;
+    }
+}
+
+@media only screen and (max-width: 1238px) {
+#information-container {
+    gap:20px;
+}
+}
